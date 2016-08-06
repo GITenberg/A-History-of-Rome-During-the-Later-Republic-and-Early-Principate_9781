@@ -1,0 +1,26 @@
+_repo: A-History-of-Rome-During-the-Later-Republic-and-Early-Principate_9781
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Greenidge, A. H. J. (Abel Hendy Jones)
+    alias: Greenidge, Abel Hendy Jones
+    birthdate: 1865
+    deathdate: 1906
+    gutenberg_agent_id: '3134'
+    url: http://www.gutenberg.org/2009/agents/3134
+description: V.1. From the Tribunate of Tiberius Gracchus to the second consulship
+  of Marius -- B.C. 133-104.
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9781'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- History'
+- !lcc 'DG'
+- GITenberg
+title: A History of Rome During the Later Republic and Early Principate
+url: http://www.gutenberg.org/ebooks/9781
